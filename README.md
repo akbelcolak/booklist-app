@@ -3,8 +3,9 @@
 javascript3-week3 homework
 
 1. section is until 9.20 in the viedo.
-How awsome that he does not use CSS but get a nice framework.
-I learned also the shortcuts for writing id and classes.
+how am I gonna learn those inner-css codes?
+and I am not sure if it is easier or not.
+I learned the shortcuts for writing id and classes.
 
 2. section 'book class' until 12th minute.
 3. section 'UI class' until 18th minute.
