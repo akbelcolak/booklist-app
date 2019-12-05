@@ -39,4 +39,6 @@ This section was by far the coolest! to see where to use setTimeOut is also so n
 
 Lots of new words, new methods to learn.
 
-8. section delete the hard code and add book to UI.
+8. section delete the hard code and add - remove book from Store.
+
+even though I watched 10 times I could not find why my remove-from-store does not work
