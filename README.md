@@ -26,8 +26,14 @@ See how to find actual target you want to work with
 and we made event propagation where we targeted actual list and then inside static function we said if it contains delete remove whatever we clicked.
 
 6. section validation and alerts until 41th minute:
+
+This section was by far the coolest! to see where to use setTimeOut is also so nice.
+
    - show alert
+     Danger Alert
    - show success message
+     Success Alert
    - show remove message
+     Info Alert
 7. section store-class untill 47th minute.
 8. section delete the hard code and add book to UI.
