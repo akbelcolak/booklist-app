@@ -17,6 +17,9 @@ Good to see how to write a simple class.
 I need to understand why are we using static functions rather than normal function.
 
 4. section event-display and event add-a-book until 25th minute.
+
+I had no diffuculty in this section.
+
 5. section event-remove until 31th minute.
 6. section validation and alerts until 41th minute:
    - show alert
