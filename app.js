@@ -128,6 +128,7 @@ document.querySelector('#book-list').addEventListener('click', (e) =>
     UI.deleteBook(e.target);
 
     // remove book from store
+    // when this code run remove alert does not work
     Store.removeBook(e.target.parentElement.previousElementSibling.textContent);
 
     // Show success message
