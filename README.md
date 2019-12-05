@@ -21,6 +21,10 @@ I need to understand why are we using static functions rather than normal functi
 I had no diffuculty in this section.
 
 5. section event-remove until 31th minute.
+
+See how to find actual target you want to work with
+and we made event propagation where we targeted actual list and then inside static function we said if it contains delete remove whatever we clicked.
+
 6. section validation and alerts until 41th minute:
    - show alert
    - show success message
