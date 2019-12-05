@@ -29,11 +29,14 @@ and we made event propagation where we targeted actual list and then inside stat
 
 This section was by far the coolest! to see where to use setTimeOut is also so nice.
 
-   - show alert
+   - show alert: 
      Danger Alert
-   - show success message
+   - show success message: 
      Success Alert
-   - show remove message
+   - show remove message: 
      Info Alert
 7. section store-class untill 47th minute.
+
+Lots of new words, new methods to learn.
+
 8. section delete the hard code and add book to UI.
